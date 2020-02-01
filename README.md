@@ -1,2 +1,6 @@
 # solitude-notes-template
-Template repository for solitude notes
+
+  - This repository is created and maintained by solitude app.
+  - Please **DO NOT** edit the contents or change the settings manually.
+
+[Solitude][https://github.com/mrprofessor/solitude]
